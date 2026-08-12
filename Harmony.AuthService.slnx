@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Harmony.AuthService.API/Harmony.AuthService.API.csproj" />
+    <Project Path="src/Harmony.AuthService.Application/Harmony.AuthService.Application.csproj" />
+    <Project Path="src/Harmony.AuthService.Domain/Harmony.AuthService.Domain.csproj" />
+    <Project Path="src/Harmony.AuthService.Infrastructure/Harmony.AuthService.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Harmony.AuthService.Application.Tests/Harmony.AuthService.Application.Tests.csproj" />
+    <Project Path="tests/Harmony.AuthService.Domain.Tests/Harmony.AuthService.Domain.Tests.csproj" />
+    <Project Path="tests/Harmony.AuthService.Integration.Tests/Harmony.AuthService.Integration.Tests.csproj" />
+  </Folder>
+</Solution>
